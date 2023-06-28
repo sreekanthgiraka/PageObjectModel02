@@ -12,6 +12,8 @@ TestNG
 log4j
 Extent Reports
 
+###HAI
+
 ### Steps to clone execute the tests
 ### Hai
 
